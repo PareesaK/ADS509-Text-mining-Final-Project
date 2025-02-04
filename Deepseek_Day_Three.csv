@@ -1,0 +1,384 @@
+source_id,source_name,author,title,description,url,urlToImage,publishedAt,content
+business-insider,Business Insider,Jane Zhang,I'm an AI startup founder. Here are the 3 reasons my company is planning to switch to DeepSeek.,"Steve Hsu, founder of AI startup SuperFocus, shares the three reasons he plans to switch to DeepSeek from closed-source models like OpenAI.",https://www.businessinsider.com/ai-startup-founder-3-reasons-to-switch-to-deepseek-2025-1,https://i.insider.com/679d34ab7bb3f854015b6381?width=1200&format=jpeg,2025-02-02 08:45:01+00:00,"Steve Hsu (not pictured) says his AI startup, SuperFocus, plans to use open-source models such as DeepSeek. picture alliance/dpa/ Getty Images
+<ul><li>Steve Hsu, cofounder of AI startup SuperFocus, … [+6717 chars]"
+,Xataka.com,Yúbal Fernández,Guía DeepSeek: 36 funciones y cosas que puedes hacer gratis con esta inteligencia artificial,"Te traemos una guía en la que repasamos todo lo que puedes hacer con DeepSeek, el chatbot de inteligencia artificial de código abierto. No es el que más funciones tiene, pero sí que es uno sorprendentemente potente que puede convertirse en una alternativa muy…",https://www.xataka.com/basics/guia-deepseek-36-funciones-cosas-que-puedes-hacer-gratis-esta-inteligencia-artificial,https://i.blogs.es/000a37/deepseek/840_560.jpeg,2025-02-02 13:01:58+00:00,"Te traemos una guía en la que repasamos todo lo que puedes hacer con DeepSeek, el chatbot de inteligencia artificial de código abierto. No es el que más funciones tiene, pero sí que es uno sorprenden… [+19651 chars]"
+business-insider,Business Insider,Tim Paradis,Cheap AI could be good for workers,Low-cost AI could let more workers access the technology. That could boost productivity even as concerns remain about bots replacing humans.,https://www.businessinsider.com/lower-cost-ai-deepseek-good-for-workers-productivity-boost-2025-1,https://i.insider.com/679d3b737bb3f854015b657d?width=1200&format=jpeg,2025-02-02 09:23:02+00:00,"As costs fall for artificial intelligence tools, more workers could gain access to the technology.Tricia Goh
+<ul><li>Lower-cost AI tools could reshape jobs by giving more workers access to the techn… [+5385 chars]"
+,Genbeta.com,Eva Rodriguez de Luis,"DeepSeek en local era justo lo que buscaba: una inteligencia artificial de calidad, privada y sin suscripciones","Cuando pensaba que entre ChatGPT y Microsoft Copilot ya tenía mi apaño hecho para usar inteligencia artificial gratis en mi día a día, va a y llega DeepSeek para cambiarlo todo: llevo una semana usándola y tengo claro que, salvo hecatombe o gran revolución po…",https://www.genbeta.com/a-fondo/deepseek-local-era-justo-que-buscaba-inteligencia-artificial-calidad-privada-suscripciones,https://i.blogs.es/f480b4/deeeeep/840_560.jpeg,2025-02-02 17:01:57+00:00,"Cuando pensaba que entre ChatGPT y Microsoft Copilot ya tenía mi apaño hecho para usar inteligencia artificial gratis en mi día a día, va a y llega DeepSeek para cambiarlo todo: llevo una semana usán… [+4168 chars]"
+,Slashdot.org,EditorDavid,OpenAI Makes Surprise Livestream Today for 'Deep Research' Announcement,"Just three hours ago, OpenAI made a surprise announcement to their 3.9 million followers on X.com. ""Live from Tokyo,"" they'd be livestreaming... something. Their description of the event was just two words. 
+
+""Deep Research"" 
+
+It begins in just 15 minutes. 
+
+…",https://slashdot.org/story/25/02/02/2342245/openai-makes-surprise-livestream-today-for-deep-research-announcement,https://a.fsdn.com/sd/topics/ai_64.png,2025-02-02 23:44:00+00:00,"Just three hours ago, OpenAI made a surprise announcement to their 3.9 million followers on X.com. ""Live from Tokyo,"" they'd be livestreaming... something. Their description of the event was just two… [+2709 chars]"
+,Habr.com,che1nov,Сравнение кода DeepSeek и ChatGPT(Golang),"Весь этот шум заставил меня заинтресоваться DeepSeek. Самое банально сравнить с ChatGPT. Ну и плюсом у меня сегодня выходной, можно и поиграть немного. Игры пусть будут на Go. Модели GPT-o1 и Deepseek-R1. Заданием для нейронок будет написать две игры. Эти две…",https://habr.com/ru/articles/878766/#post-content-body,https://habrastorage.org/getpro/habr/upload_files/a42/100/a7c/a42100a7c6e8f821f61d4d8441633917.png,2025-02-02 11:17:36+00:00,"DeepSeek. ChatGPT. , , . Go. GPT-o1 Deepseek-R1. 
+ . , , Go. 
+ 1: ""-"" Go
+:Go. ""-"". 2 . W () S (), (/). / .
+ ChatGPT
+package main
+import (
+""time""
+""github.com/nsf/termbox-go""
+)
+// 
+const (
+… [+9832 chars]"
+,Habr.com,Philistine1917,Отечественные процессоры: почему DeepSeek видит в этом тупик (и где нашёл выход),"Главная задача экономики заключается в создании товаров, которые экономят время потребителя и обеспечивают качество, превосходящее результаты его самостоятельного производства. Однако ценность таких товаров нивелируется, если их использование требует дополнит…",https://habr.com/ru/articles/878752/#post-content-body,https://habr.com/share/publication/878752/a7e1f3b6d124c8bb17473c89dc880db2/,2025-02-02 10:28:58+00:00,", , . , : , , .
+ (« »). , . (, - ), .
+ , . , , , , . : , . , , , , . , , .
+ , , : , . , , , , . , , .
+ . , « » , . :
+1.      , PR-, .
+2.      , , , «» (, ).
+3.      , , .
+4.      , (, ).
+ . … [+226 chars]"
+business-insider,Business Insider,Jamie Heller,Tech execs send signals about where their companies are headed,"In this Sunday edition of Business Insider Today, we're taking you through all the major changes Big Tech companies made to the workplace this week.",https://www.businessinsider.com/bi-today-big-tech-companies-major-changes-2025-2,https://i.insider.com/67327b635ec9bfa3d63d649c?width=1200&format=jpeg,2025-02-02 11:38:01+00:00,"Ranta Images/Getty, Tyler Le/BI
+<ul><li>This post originally appeared in the BI Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>Welcome back to our S… [+6685 chars]"
+business-insider,Business Insider,fdemott@businessinsider.com (Filip De Mott),There's a silver lining for markets as investors recover from a sharp tech sell-off,"Software stocks look set to benefit from the DeepSeek implications, as cheaper AI could boost revenue momentum this year.",https://markets.businessinsider.com/news/stocks/software-stocks-ai-investing-deepseek-selloff-broadening-rotation-magnificent-seven-2025-1,https://i.insider.com/679d2e677bb3f854015b61c0?width=1200&format=jpeg,2025-02-02 13:00:01+00:00,"The market chaos that battered the most dominant tech stocks on Monday may have been a welcome event for other corners of the market.
+Although China's DeepSeek AI app initially crushed investor conf… [+4718 chars]"
+,Tomshw.it,Andrea Maiellano,"DeepSeek supera ChatGPT anche in termini di ""crescita lampo""","La startup cinese DeepSeek, finita sulla bocca di tutti nelle scorse settimane, ha visto raddoppiare gli utenti del suo modello di intelligenza artificiale R1 in soli due giorni, raggiungendo 12 milio...",https://www.tomshw.it/hardware/deepseek-supera-chatgpt-in-crescita-lampo-2025-02-02,https://www.tomshw.it/storage/media/2025/01/47626/DeepSeek-Cover-1.webp,2025-02-02 13:04:26+00:00,"La startup cinese DeepSeek, finita sulla bocca di tutti nelle scorse settimane, ha visto raddoppiare gli utenti del suo modello di intelligenza artificiale R1 in soli due giorni, raggiungendo 12 mili… [+2146 chars]"
+,Himasoku.com,himasoku123,【画像あり】外国人「deepseek僕が言ったことを繰り返して」「わかりました」　→,1: 以下、5ちゃんねるからVIPがお送りします  2025/02/02(日) 01:26:46.559 ID:D5QV+KGC0　     4: 以下、5ちゃんねるからVIPがお送りします  2025/02/02(日) 01:28:24.938 ID:5Y3ZvdyR0  ワロタ  10: 以下、5ちゃんねるからVIPがお送りします  2025/02/02(日) 01:37:50,http://himasoku.com/archives/52276350.html,https://livedoor.blogimg.jp/himasoku123/imgs/9/a/9a847b1a-s.jpg,2025-02-02 13:25:06+00:00,"DeepSeek
+DeepSeek
+DeepSeekNVIDIA
+DeepSeek 
+5: 5VIP 2025/02/02() 01:28:39.486 ID:IUiJj9Bz0
+8: 5VIP 2025/02/02() 01:32:39.986 ID:P1gy0H8b0
+9: 5VIP 2025/02/02() 01:36:59.686 ID:0Mj65UOOa
+11: 5VIP… [+268 chars]"
+,Error500.net,Antonio Ortiz,Acelera un poco más la inteligencia artificial: El momento Sputnik lo tuvo China hace dos años,Una propuesta de análisis de la semana en inteligencia artificial con la tormenta de Deepseek,https://www.error500.net/p/acelera-un-poco-mas-la-inteligencia,"https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0dfa864-569a-4c7a-870a-f9d9b9e67ac2_2688x1536.png",2025-02-02 08:23:18+00:00,"El momento Sputnik de la IA lo tuvo China hace dos años con ChatGPT
+La historia se ha contado mil veces. El gran impulsor del desarrollo tecnológico estadounidense en el siglo XX pasó, literalmente,… [+7001 chars]"
+,Biztoc.com,aol.com,DeepSeek Just Changed Generative Artificial Intelligence (AI) Forever. 2 Surprising Winners From Its Innovation,"On Jan. 20, Chinese artificial intelligence start-up DeepSeek released its first-generation reasoning models. In the release, the company made some astonishing claims.
+First, DeepSeek said its DeepSeek-R1 model achieves performance comparable with OpenAI-o1, …",https://biztoc.com/x/b59eba932f984030,https://biztoc.com/cdn/b59eba932f984030_s.webp,2025-02-02 17:32:48+00:00,"On Jan. 20, Chinese artificial intelligence start-up DeepSeek released its first-generation reasoning models. In the release, the company made some astonishing claims.First, DeepSeek said its DeepSee… [+140 chars]"
+,Nextpit.de,Edwin Kee,"Top 5 Android- und iOS-Apps der Woche: DeepSeek, Tiny Paws & mehr!","Wir empfehlen diese Top 5 Apps und Spiele für Euer Android- und iOS-Smartphone für die Woche, darunter die derzeit meistdiskutierte KI-App DeepSeek.",https://www.nextpit.de/top-5-android-ios-apps-der-woche-2025-05,https://fs.npstatic.com/userfiles/7687254/image/Top_Apps.jpg,2025-02-02 09:00:01+00:00,"NVIDIAs Kryptonit in dieser Woche ist kein Geringerer als DeepSeek, der KI-Assistent, dessen Entwicklung angeblich weniger als 6 Millionen Dollar gekostet hat und der dennoch eine erstaunliche Leistu… [+10504 chars]"
+,Genbeta.com,Bárbara Bécares,"La llaman para trabajar y a los dos minutos le dicen: ""te voy a pedir que pares"" de hablar. Su problema fue el de toda la juventud","Ya nos hemos hecho eco en varias ocasiones de personas que se hacen virales contando diversos problemas que enfrentan en su trabajo o en contextos laborales como el TikTok de una joven quejándose de su trabajo, que ha puesto varias cuestiones muy interesantes…",https://www.genbeta.com/a-fondo/llaman-para-trabajar-a-dos-minutos-le-dicen-te-voy-a-pedir-que-pares-hablar-su-problema-fue-toda-juventud-1,https://i.blogs.es/2eed95/van-tay-media-tffn3bylc5s-unsplash/840_560.jpeg,2025-02-02 13:01:58+00:00,Ya nos hemos hecho eco en varias ocasiones de personas que se hacen virales contando diversos problemas que enfrentan en su trabajo o en contextos laborales como el TikTok de una joven quejándose de … [+2466 chars]
+,Tom's Hardware UK,Anton Shilov,"DeepSeek might not be as disruptive as claimed, firm reportedly has 50,000 Nvidia GPUs and spent $1.6 billion on buildouts","SemiAnalysis says that DeepSeek and its venture capitalist partner spent some $1.6 billion dollar on AI hardware from Nvidia, says SemiAnalysis.",https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-might-not-be-as-disruptive-as-claimed-firm-reportedly-has-50-000-nvidia-gpus-and-spent-usd1-6-billion-on-buildouts,https://cdn.mos.cms.futurecdn.net/zR8j9PwSx2RcUt6gUCCL7J-1200-80.jpg,2025-02-02 18:00:44+00:00,"Chinese startup DeepSeek recently took center stage in the tech world with its startlingly low usage of compute resources for its advanced AI model called R1, a model that is believed to be competiti… [+4385 chars]"
+,Forbes,"Bill Stone, Contributor, 
+ Bill Stone, Contributor
+ https://www.forbes.com/sites/bill_stone/",DeepSeek Undermines Robust Earnings And Economic Growth,"Despite supportive earnings, DeepSeek shocked technology stocks. In the busiest week of the earnings season, tariffs and the jobs report could add to market volatility.",https://www.forbes.com/sites/bill_stone/2025/02/02/deepseek-undermines-robust-earnings-and-economic-growth/,https://imageio.forbes.com/specials-images/imageserve/679e41168f3e15064306bc16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2025-02-02 11:40:20+00:00,"Despite overall better earnings and resilient U.S. economic growth, the announcement of DeepSeek ... [+] development and President Trumps threatened tariffs against China, Canada, and Mexico caused c… [+8000 chars]"
+,3dnews.ru,,Заявление DeepSeek о низкой стоимости обучения ИИ и использовании всего 2048 GPU Nvidia опровергнуто аналитиками,"Китайский стартап DeepSeek привлёк всеобщее внимание, заявив о создании конкурентоспособной модели искусственного интеллекта (ИИ) с минимальными затратами. Компания утверждала, что на обучение чат-бота было потрачено всего $6 млн и использовано 2048 графическ…",https://3dnews.ru/1117636/analitiki-semianalysis-oprovergli-zayavleniya-deepseek-o-nizkoy-stoimosti-obucheniya-iimodeli,https://3dnews.ru/assets/external/illustrations/2025/02/03/1117636/Nvidia_782.jpg,2025-02-03 01:23:00+00:00,"DeepSeek , () . , - $6 2048 (GPU). SemiAnalysis , $1,6 50 000 GPU Nvidia.
+: Nvidia, tomshardware.com
+, DeepSeek , 50 000 GPU Hopper. 10 000 H800 10 000 H100, H20. , . Tom's Hardware, $1,6 , $944 .… [+132 chars]"
+,Antyweb.pl,Patryk Koncewicz,Twórcy ChatGPT kontratakują. Oto odpowiedź na DeepSeek,Model o3-mini jest już dostępny dla wszystkich – możecie skorzystać bez opłacania subskrypcji.,https://antyweb.pl/tworcy-chatgpt-kontratakuja-oto-odpowiedz-na-deepseek,"https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2024/08/h1cnqr2awz/chatgpt-sztuczna-inteligencja.jpg",2025-02-02 18:01:17+00:00,"OpenAI nie mogo pozosta bezczynne w obliczu globalnego tornado, jakie rozptao si wokó DeepSeek nowego modelu jzykowego, który byskawicznie podbi serca uytkowników i wspi si na podium najpopularniejsz… [+3049 chars]"
+,Olhardigital.com.br,Vitoria Lopes Gomez,Mas já? Rival da China proíbe DeepSeek para servidores públicos,"Território alega preocupações de segurança 
+O post Mas já? Rival da China proíbe DeepSeek para servidores públicos apareceu primeiro em Olhar Digital.",https://olhardigital.com.br/2025/02/02/pro/mas-ja-rival-da-china-proibe-deepseek-para-servidores-publicos/,https://olhardigital.com.br/wp-content/uploads/2025/01/deepseek_.jpg,2025-02-02 21:15:33+00:00,"A startup chinesa DeepSeek chamou atenção na semana passada com o DeepSeek R1, modelo de inteligência artificial com capacidades similares às IAs de ponta (como o ChatGPT), mas que precisou de muito … [+2995 chars]"
+,Forbes,"Zak Doffman, Contributor, 
+ Zak Doffman, Contributor
+ https://www.forbes.com/sites/zakdoffman/",New TikTok Ban—America’s AI Warning Changes Everything,Has everything suddenly changed for TikTok?,https://www.forbes.com/sites/zakdoffman/2025/02/02/new-tiktok-ban-americas-ai-warning-changes-everything/,"https://imageio.forbes.com/specials-images/imageserve/66ff77d3f53bcfc81e764f99/0x0.jpg?format=jpg&crop=1291,742,x569,y483,safe&height=900&width=1600&fit=bounds",2025-02-02 13:37:27+00:00,"Everything suddenly changes for TikTok
+NurPhoto via Getty Images
+There is something poetically ironic about the news this weekend, that DeepSeek and Huawei have teamed up as Chinas newest and oldes… [+2974 chars]"
+,Geekpark.net,,微信视频美颜「仅自己可见」，官方：都能看见；《哪吒 2》破30亿冲击票房冠军；水上机器人救回 3 位溺水者,受 DeepSeek 市场冲击，英伟达市值单周缩水 5520 亿美元2 月 2 日消息，英伟达市值在一周内缩水了 5520 亿美元（约合 4 万亿元人民币），这一现象引起了市场的广泛关注。据悉，这一市值缩水与近期国内人工智能初创企业 DeepSeek（深度求索）发布的新开源模型 R1 密切相关。2025 年 1 月底，DeepSeek 的 AGI 大模型软件超越 ChatGPT 登顶苹果应用商店免费榜第一，对算力市场造成了巨大冲击。目前，英伟达股价下跌 16.86%，创历史最大单日蒸发规模，市值蒸发 5888.6…,https://www.geekpark.net/news/345707,https://imgslim.geekpark.net/uploads/image/file/97/37/97372c6ecbfa73f399f10c5a4065f550.jpg,2025-02-03 00:42:40+00:00,"DeepSeek 5520 
+2 2 5520 4 
+ DeepSeek R1 
+2025 1 DeepSeek AGI ChatGPT 
+ 16.86% 5888.62 4.27 5520 
+DeepSeek OpenAI o1 AI 
+DeepSeek GPU AI : 
+iPhone 11%
+ 1243 1241 iPhone 691.4 710 185.1 213.3 2… [+794 chars]"
+,Forbes,"Gene Marks, Contributor, 
+ Gene Marks, Contributor
+ https://www.forbes.com/sites/quickerbettertech/",Business Tech News: What Business Owners Should Know About DeepSeek,"DeepSeek is good for businesses, new and powerful laptops are coming, X is rolling out its payment app and get ready for AI regulations across the country this year.",https://www.forbes.com/sites/quickerbettertech/2025/02/02/business-tech-news-what-business-owners-should-know-about-deepseek-ai/,https://imageio.forbes.com/specials-images/imageserve/679cc3d9685eeaa3ddb0c2a9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2025-02-02 12:00:00+00:00,"Here are five things in business tech news that happened this week and how they affect your business. Did you miss them?
+SAN ANSELMO, CALIFORNIA - JANUARY 27: In this photo illustration, the DeepSee… [+6669 chars]"
+,Javacodegeeks.com,Java Code Geeks,"2025 IT Unleashed: DeepSeek Disrupts, Cloud Growth Shifts, & Big Tech Reinvents the Future","DeepSeek’s Disruptive AI Revolution DeepSeek has emerged as a true game changer in the AI landscape. Last week, headlines reported that DeepSeek’s new large language model, DeepSeek-R1, is challenging established players by achieving performance comparable to…",https://www.javacodegeeks.com/2025/02/2025-it-unleashed-deepseek-disrupts-cloud-growth-shifts-big-tech-reinvents-the-future.html,https://www.javacodegeeks.com/wp-content/uploads/2025/02/Leonardo_Phoenix_10_A_futuristic_digital_collage_titled_2025_I_1.jpg,2025-02-02 22:03:29+00:00,"DeepSeek has emerged as a true game changer in the AI landscape. Last week, headlines reported that DeepSeeks new large language model, DeepSeek-R1, is challenging established players by achieving pe… [+8655 chars]"
+,Tinhte.vn,"no-reply@tinhte.vn (Lư Thế Nghĩa), Lư Thế Nghĩa",DeepSeek AI tận dụng tốt tài nguyên nhờ năng lực lập trình gần đạt mức assembly?,"Theo một số chuyên gia, DeepSeek không cần tới cả CUDA để khai thác GPU của NVIDIA.
+ 
+Sự xuất hiện của DeepSeek trong những ngày vừa qua là một cơn địa chấn với giới công nghệ toàn cầu, đặc biệt là mảng AI.",https://tinhte.vn/thread/deepseek-ai-tan-dung-tot-tai-nguyen-nho-nang-luc-lap-trinh-gan-dat-muc-assembly.3953999/,https://photo2.tinhte.vn/data/attachment-files/2025/02/8630318_cover-deepseek-ptx.jpg,2025-02-03 01:55:23+00:00,"V c bn mà nói, CUDA C/C++ là mt ngôn ng lp trình cp cao. Còn PTX gn vi ngôn ng máy hn, nó ""sát"" vi chi tit phn cng (close-to-metal) hn. Khi dùng PTX, lp trình viên có th ""nhìn rõ"" các thành phn nhân … [+3052 chars]"
+,Himasoku.com,himasoku123,【画像あり】熟女キラー「えっ！もう会えないの！？」　→,1: それでも動く名無し  2025/02/01(土) 07:19:43.44 ID:KSykIv7UM  。          3: それでも動く名無し  2025/02/01(土) 07:21:26.42 ID:YyuDSVYy0  草  10: それでも動く名無し  2025/02/01(土) 07:28:52.55 ID:jn53yoA50  閉店で草,http://himasoku.com/archives/52276239.html,https://livedoor.blogimg.jp/himasoku123/imgs/7/c/7ca7463e-s.jpg,2025-02-02 15:25:47+00:00,"AV
+5: 2025/02/01() 07:22:20.07 ID:Gj5BgsixM
+18: 2025/02/01() 07:37:05.39 ID:G2cq2V9n0
+7: 2025/02/01() 07:23:18.48 ID:WCTI2/dF0
+9: 2025/02/01() 07:28:43.63 ID:9xwC+6Wr0
+11: 2025/02/01() 07:28:54.… [+398 chars]"
+,Olhardigital.com.br,Vitoria Lopes Gomez,DeepSeek fez efeito: OpenAI vai liberar IA poderosa de graça,"Desenvolvedora anunciou lançamento do modelo de raciocínio o3 para usuários da versão gratuita do ChatGPT
+O post DeepSeek fez efeito: OpenAI vai liberar IA poderosa de graça apareceu primeiro em Olhar Digital.",https://olhardigital.com.br/2025/02/02/pro/deepseek-fez-efeito-openai-vai-liberar-ia-poderosa-de-graca/,https://olhardigital.com.br/wp-content/uploads/2024/12/openai-inteligencia-artificial.png,2025-02-02 22:13:09+00:00,"A OpenAIestá liberando o modelo de inteligência artificial o3-mini gratuitamente para usuários do ChatGPT. A atitude vem depois de Sam Altman, CEO da desenvolvedora, prometer acelerar o lançamento de… [+1983 chars]"
+,Esuteru.com,htmk711,【マジ注意】トランプ大統領の追加関税のせいで本日の日経平均株価が一時1100円安の大暴落！　世界経済全体にも景気後退懸念が高まってしまう…,【マジ注意】トランプ大統領の追加関税のせいで本日の日経平均株価が一時1100円安の大暴落！　世界経済全体にも景気後退懸念が高まってしまう…の記事ページ,http://blog.esuteru.com/archives/10322709.html,https://livedoor.blogimg.jp/hatima/imgs/e/7/e72b7cf0.jpg,2025-02-03 01:00:23+00:00,"2E
+1100 - 
+341100
+1
+25%10%43
+https://t.co/6izjRHVLiy
+— matsuta (@m_matsumatsuta) February 3, 2025
+25%50%
+? 
+Deepseek"
+,Forbes,"Iain Martin, Forbes Staff, 
+ Iain Martin, Forbes Staff
+ https://www.forbes.com/sites/iainmartin/",The EU Is Betting $56 Million On Open Source AI,The European Union is writing a $56 million check for researchers to build a large language model to rival its American and Chinese competitors.,https://www.forbes.com/sites/iainmartin/2025/02/02/the-eu-is-betting-56-million-on-open-source-ai/,https://imageio.forbes.com/specials-images/imageserve/679e3484238a4239a7817130/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2025-02-03 02:00:00+00:00,"The EU is backing a $56 million project involving researchers from of Europe's top AI labs to build a new open source large language model.
+© 2020 Bloomberg Finance LP
+For years, the European Union… [+3608 chars]"
+,Meduza,Meduza,"Телеканал «Россия 1» рассказал, что DeepSeek разработан на основе советского кода. Это новость сатирического издания «Панорама»","В программе «Вести» на телеканале «Россия 1» рассказали, что китайский чат-бот DeepSeek был разработан на основе советского кода. Об этом несколькими днями ранее написало сатирическое издание «Панорама».",https://meduza.io/news/2025/02/02/telekanal-rossiya-1-rasskazal-chto-deepseek-razrabotan-na-osnove-sovetskogo-koda-eto-novost-satiricheskogo-izdaniya-panorama,https://meduza.io/imgly/share/1738503582/news/2025/02/02/telekanal-rossiya-1-rasskazal-chto-deepseek-razrabotan-na-osnove-sovetskogo-koda-eto-novost-satiricheskogo-izdaniya-panorama,2025-02-02 13:39:41+00:00,"«»   « 1» , - DeepSeek   .   «».
+« DeepSeek , ,  1985 »,    «»,   X  «».
+    «»  29  «»,     DeepSeek . «  ,   ,    .       ChatGPT»,  .
+1  «»   ,   DeepSeek,   -    «»  , «  ». « ». ."
+,Tinhte.vn,"no-reply@tinhte.vn (P.W), P.W",Cisco: DeepSeek R1 thất bại toàn diện trong bài kiểm tra an toàn AI,"Các nhà nghiên cứu của Cisco đã hợp tác với các nhà nghiên cứu bảo mật của đại học Pennsylvania, Mỹ, sử dụng những kỹ thuật bẻ khoá thuật toán, để thử nghiệm và so sánh khả năng vận hành của hàng rào bảo vệ trước những prompt độc hại và phi pháp mà…",https://tinhte.vn/thread/cisco-deepseek-r1-that-bai-toan-dien-trong-bai-kiem-tra-an-toan-ai.3954013/,https://photo2.tinhte.vn/data/attachment-files/2025/02/8630373_679dada199189.webp,2025-02-02 13:06:44+00:00,"ây rõ ràng là thông tin áng chú ý gia lúc DeepSeek ang khin cuc ua cnh tranh v chi phí vn hành mô hình AI tr nên gay gt hn bao gi ht. Startup Trung Quc này khng nh rng, R1 có kh nng cnh tranh vi nhng… [+1388 chars]"
+,Thenewslens.com,BBC News 中文,DeepSeek創辦人梁文鋒：從量化基金到聊天機器人投資者，僅花一年便在AI世界立足,當被問及為什麼DeepSeek的模型讓這麼多矽谷人士感到驚訝時，梁文鋒回答說：「他們的驚訝源於看到一家中國公司作為創新者加入他們的遊戲，而不僅僅是跟隨者——這是大多數中國公司所習慣的。」,https://www.thenewslens.com/article/248451,https://ichef.bbci.co.uk/news/raw/cpsprodpb/fea8/live/c235e850-ddfa-11ef-902e-cf9b84dc1357.jpg,2025-02-02 23:57:00+00:00,"AIDeepSeekChatGPT
+Donald Trump
+Photo Credit: GettyImagesBBC News
+DeepSeek202312AI40
+36Geek
+DeepSeek
+AI
+AIHigh-FlyerAI
+20191000
+AIAIH8002023DeepSeek
+DeepSeekAI
+Photo Credit: CCTVBBC News
+D… [+366 chars]"
+,Smashingapps.com,Team,DeepSeek-R1 on GitHub Models: A Game-Changer for Developers,Big news for developers and AI enthusiasts—DeepSeek-R1 on GitHub Models is now available! This integration brings one of the most advanced AI tools directly,https://smashingapps.com/deepseek-r1-on-github-models/,https://smashingapps.com/wp-content/uploads/2025/02/deekseep-r1-on-github-models-e1738481911272.png,2025-02-02 07:44:35+00:00,"Big news for developers and AI enthusiastsDeepSeek-R1 on GitHub Models is now available! This integration brings one of the most advanced AI tools directly into GitHub, making it easier than ever to … [+5722 chars]"
+,Nakedcapitalism.com,Conor Gallagher,Links 2/2/2025,,https://www.nakedcapitalism.com/2025/02/links-2-2-2025.html,https://www.nakedcapitalism.com/wp-content/uploads/2025/02/Screenshot-2025-01-31-at-10.05.58 PM-1024x773.png,2025-02-02 11:55:56+00:00,"The Most Important Corporate Subsidy Battle of 2025 Boondoggle
+Climate/Environment
+Records show Big Sugar lobbyists are working on plans for an Everglades-area mine Seeking Rents
+Threats and killi… [+8461 chars]"
+,Expansion.com,expansion.com,"Liang Wenfeng, el fundador de DeepSeek",El nuevo protagonista del fenómeno de la inteligencia artificial (IA) en China es un ingeniero y emprendedor de 40 años especializado en visión artificial y defensor del código abierto y la IA inclusiva. Leer,https://www.expansion.com/podcasts/genios-finanzas/2025/02/03/679ce870468aebb8688b4587.html,https://phantom-expansion.unidadeditorial.es/4d866b776441df99eccf9e25990093c1/f/webp/assets/multimedia/imagenes/2025/01/31/17383371210806.jpg,2025-02-02 23:07:27+00:00,El nuevo protagonista del fenómeno de la inteligencia artificial (IA) en China es un ingeniero y emprendedor de 40 años especializado en visión artificial y defensor del código abierto y la IA inclus… [+602 chars]
+,Biztoc.com,benzinga.com,Palantir CEO Alex Karp Sounds Alarm on China's Deepseek – Could This Threaten Palantir's AI Dominance?,"Zinger Key Points
+- Karp warns DeepSeek's rise could challenge U.S. AI dominance and affect Palantir's stock growth amid increasing global competition.
+- Palantir's growth hinges on AI demand, but DeepSeek's low-cost success raises questions about future tech…",https://biztoc.com/x/1fdbe014a615875f,https://biztoc.com/cdn/1fdbe014a615875f_s.webp,2025-02-02 16:36:52+00:00,"Zinger Key Points- Karp warns DeepSeek's rise could challenge U.S. AI dominance and affect Palantir's stock growth amid increasing global competition.- Palantir's growth hinges on AI demand, but Deep… [+146 chars]"
+,Thenewslens.com,中央通訊社,DeepSeek重擊歐洲，法國AI高峰會聚焦外交角力，美國務院：將限制使用有風險工具,DeepSeek模型崛起衝擊全球，成本低廉卻引發資安疑慮。法國AI峰會登場，成美中歐角力場，凸顯AI外交重要性。DeepSeek的開源模式挑戰OpenAI等企業，歐洲視其為警鐘，盼藉此重振AI發展。美國務院則表示將限制使用有風險的AI工具。,https://www.thenewslens.com/article/248507,https://bucket-image.inkmaginecms.com/version/social/1/image/2025/02/d9689a1d-a190-4105-9175-b40caec7f1c9.jpg,2025-02-03 00:56:56+00:00,"DeepSeekAI
+DeepSeek10AI
+AIDeepSeekOpenAI
+DeepSeekR1AI
+DeepSeekCNILDeepSeekAI
+AI Action Summit10118AIClara Chappaz1AIAIAI
+Maddyness3
+AIAIAI
+3000
+1OpenAISam AltmanAIAnthropicDario AmodeiMistra… [+387 chars]"
+,Technews.tw,Atkinson,不再由高階晶片決定 AI 發展，DeepSeek 打破矽谷產業壟斷,根據日經亞洲評論對近期中國 DeepSeek 的報導表示，多年來美國矽谷一直秉持著一個單一的假設，那就是人工智慧是比較口袋深度的領域，需要數十億美元的計算基礎設施和對半導體供應鏈的鐵腕控制來達成。然而，DeepSeek 的出現徹底打破了這一幻想。它不僅重寫了 AI 的規則，而且迫使市場重新評估估值、...,https://finance.technews.tw/2025/02/03/deepseek-breaks-silicon-valleys-industry-monopoly/,https://img.technews.tw/wp-content/uploads/2025/01/29102458/amrdK9DO.jpg,2025-02-03 01:45:28+00:00,"DeepSeek DeepSeek AI 
+DeepSeek AI DeepSeek AI AI 
+ AI (Nvidia) OpenAIGoogle DeepMind Meta AI 
+DeepSeek DeepSeek DeepSeek AI AI 
+ AI DeepSeek AI 
+ DeepSeek AI OpenAIGoogle Meta AI DeepSeek ChatGP… [+83 chars]"
+,Forbes,"Sasirekha Subramanian, Contributor, 
+ Sasirekha Subramanian, Contributor
+ https://www.forbes.com/",3 Growth Stocks For The Next 5 Years,Discover the best growth stocks for the next 5 years. Explore top investment opportunities with high growth potential to help build your long-term portfolio.,https://www.forbes.com/sites/investor-hub/article/best-growth-stocks-for-next-5-years/,https://imageio.forbes.com/specials-images/imageserve/679d099cc9cb40e4f443ec4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2025-02-02 18:00:00+00:00,"Embraer, Nvidia and TSMC share key strengths, such as a wide competitive moat and huge market ... [+] demand, positioning them for significant future growth.
+getty
+Investing in high-growth companie… [+15438 chars]"
+,Technews.tw,Chen Kobe,DeepSeek 和開源模型如何撼動人工智慧產業？,中國人工智慧服務 DeepSeek 發表了開放原始碼的 AI 模型後，引起全球人工智慧產業震驚，為什麼開源模型會造成如此大的衝擊呢？ 要談 Open Source（開放原始碼，簡稱開源）AI，當然要先快速理解一下什麼是開源。最簡單的定義就是一套軟體，將它的原始程式碼免費公開在網路上，提供任何人使用和...,https://technews.tw/2025/02/03/how-deepseek-and-opensource-shake-ai-industry/,https://img.technews.tw/wp-content/uploads/2025/02/03110413/shutterstock_distillation.jpeg,2025-02-03 03:04:41+00:00,"DeepSeek AI 
+ Open SourceAI
+Open Source Initiative, OSI AI 
+ Open 
+ DeepSeek Mistral MetaFacebook AI 
+ Open Weights AI weights AI 
+ Meta Llama OSI Meta Llama AI 
+ DeepSeek R1 
+ OpenAI Open
+A… [+306 chars]"
+,Hwupgrade.it,,NVIDIA risponde ad AMD su DeepSeek: la GeForce RTX 5090 annienta la Radeon RX 7900 XTX,"NVIDIA ha pubblicato dei test interni con modelli distillati di DeepSeek R1, in cui mostra risultati ben diversi da quelli pubblicati da AMD. Non solo la GeForce RTX 5090 è nettamente davanti alla Radeon RX 7900 XTX, ma lo è anche la RTX 4090.",https://www.hwupgrade.it/news/skvideo/nvidia-risponde-ad-amd-su-deepseek-la-geforce-rtx-5090-annienta-la-radeon-rx-7900-xtx_135214.html,https://www.hwupgrade.it/i/n/geforce-rtx-5090-ces-2025_720.jpg,2025-02-02 07:31:01+00:00,"Nei giorni scorsi, AMD ha pubblicato una serie di test per dimostrare le capacità della Radeon RX 7900 XTX nell'inferenza locale, utilizzando alcuni modelli distillati da DeepSeek R1 con 671 miliardi… [+1480 chars]"
+,Sapo.pt,Vítor M.,OpenAI responde ao DeepSeek e disponibiliza a poderosa versão o3 para todos,"A luta pelo domínio da Inteligência Artificial está ao rubro. Se a OpenAI dominava, a chinesa DeepSeek veio abanar o pódio. Contudo, a OpenAI tem na manga um trunfo poderoso, a sua versão o3…...",https://pplware.sapo.pt/inteligencia-artificial/openai-responde-ao-deepseek-e-disponibiliza-a-poderosa-versao-o3-para-todos/,https://pplware.sapo.pt/wp-content/uploads/2025/02/openai_o3_mini_00.webp,2025-02-02 21:30:56+00:00,"A luta pelo domínio da Inteligência Artificial está ao rubro. Se a OpenAI dominava, a chinesa DeepSeek veio abanar o pódio. Contudo, a OpenAI tem na manga um trunfo poderoso, a sua versão o3... agora… [+3196 chars]"
+el-mundo,El Mundo,Lucas de la Cal,"Una semana discutiendo con DeepSeek en español (""China ha obstaculizado investigaciones independientes) y en chino (""El Gobierno ha publicado información de manera oportuna"")","La IA china ha puesto Wall Street patas arriba. Pero ella misma se pone del revés en función del idioma en el que se le pregunte. En español, se le escapan críticas muy duras al régimen de Xi Jinping, que desaparecen por completo cuando interactúa en chino co…",https://www.elmundo.es/cronica/2025/02/02/679bbfe0e85ecef05d8b4596.html,https://phantom-elmundo.unidadeditorial.es/988f7f3a7138b88c11948168f9a5081c/resize/1200/f/webp/assets/multimedia/imagenes/2025/01/30/17382591465768.jpg,2025-02-02 16:18:23+00:00,"Hola DeepSeek. Después de tu indiscutible éxito tras reventar el mercado de la inteligencia artificial, te han salido muchos críticos que destacan que, al fin y al cabo, cojeas de la misma pata que e… [+12572 chars]"
+,Himasoku.com,himasoku123,最近のAVがつまらない理由が判明,"1: それでも動く名無し 2025/01/31(金) 10:45:13.39 ID:m9XyH/KV0　
+ 男優が絵的な見栄えの良さが全てなってしまっていてAV女優を滅茶苦茶気持ちよくさせるとかは考えてない 要するにパフォーマンスに全振りしてしまって良い意味でのいやらしいド助平さが無い 
+
+
+
+
+...",http://himasoku.com/archives/52276167.html,https://livedoor.blogimg.jp/himasoku123/imgs/7/c/7ca7463e-s.jpg,2025-02-02 23:45:59+00:00,"AV
+AV
+AV
+AV
+AV
+5: 2025/01/31() 10:48:20.43 ID:vM/KXLe30
+7: 2025/01/31() 10:49:26.21 ID:D+5Fo+r+d
+9: 2025/01/31() 10:50:20.92 ID:z444G9480
+10: 2025/01/31() 10:50:53.00 ID:m9XyH/KV0
+13: 2025/0… [+1491 chars]"
+abc-news-au,ABC News (AU),Kai Feng,DeepSeek celebrated in China despite concerns elsewhere,China's new open-source AI chatbot DeepSeek has stoked pride at home but prompted concerns about censorship and data security abroad.,https://www.abc.net.au/news/2025-02-03/deepseek-celebrated-in-china-despite-concerns-abroad/104869272,https://live-production.wcms.abc-cdn.net.au/b12dac0336443ccbd43b0324fec2c6a7?impolicy=wcms_watermark_news&cropH=1687&cropW=3000&xPos=0&yPos=157&width=862&height=485&imformat=generic,2025-02-02 19:07:11+00:00,"When Ye Shengwei first asked the new Chinese artificial intelligence (AI) chatbot DeepSeek to write an article for him, he was amazed by its quality.
+""It provided in-depth analysis and told me the r… [+6243 chars]"
+,Technews.tw,Dindo Lin,DeepSeek R1 引發 AI 模型革命，美國晶片出口管制失敗了嗎？,美國長期以來透過出口管制與相關禁令，試圖限制中國取得最先進的人工智慧運算晶片，以維繫在全球 AI 發展領域的領先地位。然而近來中國新創公司 DeepSeek 公開宣稱，他們在較少晶片與較低預算的情況下，打造出表現能與美國前沿 AI 推理模型 ChatGPT o1 一較高下的 DeepSeek R1。...,https://technews.tw/2025/02/03/deepseek-r1-sparks-an-ai-algorithm-revolution-has-the-u-s-chip-export-control-failed/,https://img.technews.tw/wp-content/uploads/2025/01/31122809/shutterstock_2576903003.jpg,2025-02-02 23:45:16+00:00,AI DeepSeek AI ChatGPT o1 DeepSeek R1 AI
+,Technews.tw,中央社,德州開美 50 州第一槍，禁政府機構用 DeepSeek 及小紅書,美國德州州長艾波特 1 月 31 日宣布，禁止州官員政府設備用 DeepSeek 及小紅書國際版 RedNote，強調「德州不允許中國共產黨透過蒐集數據的 AI 及社群媒體應用程式，滲透我們的關鍵基礎設施」。 共和黨籍的艾波特（Greg Abbott）是眾州長的對中大鷹派，新聞稿表示「德州將繼續保護...,https://infosecu.technews.tw/2025/02/02/texas-gov-ban-deepseek-rednote/,https://img.technews.tw/wp-content/uploads/2025/02/02111943/texas-flag-323384_1280.jpg,2025-02-02 03:30:27+00:00,"1 31 DeepSeek RedNote AI 
+Greg Abbott
+DeepSeekAIRedNoteTikTokTikTok
+DeepSeek GoogleEric SchmidtDeepSeekAI
+28The Washington PostDeepSeek
+The HillOpenAISam Altman130DeepSeekMetaMark ZuckerbergAI
+… [+57 chars]"
+,Technews.tw,陳 冠榮,DeepSeek 加劇 AI 競賽，OpenAI 奧特曼啟程拜會投資人、產業領袖,中國幻方成立的 AI 公司 DeepSeek 釋出模型，宣稱基準測試結果追平 OpenAI o1，而開發成本遠遠低於 OpenAI、Google 等產品，震撼整個科技業界，甚至讓歐美日股市重挫。業界領頭羊 OpenAI 著眼於 Stargate 計畫，為日後 AI 技術發展鋪路。 據傳奧特曼在 30...,https://technews.tw/2025/02/03/sam-altman-to-meet-investors-developers-and-industry-leaders/,https://img.technews.tw/wp-content/uploads/2024/09/05100404/shutterstock_2502642561.jpg,2025-02-03 00:49:40+00:00,"AI DeepSeek OpenAI o1 OpenAIGoogle OpenAI Stargate AI 
+ 30 DeepSeek Stargate OpenAI Sam Altman
+ OpenAI Greg Brockman AI 
+ AI Google DeepMind Demis HassabisAnthropic Dario Amodei Google Sundar Pich… [+56 chars]"
+,Cnblogs.com,mingupupup,DeepSeekV3+Roo Code，智能编码好助手 - mingupupup,前言 硅基流动最近上线了deepseek-ai/DeepSeek-R1与deepseek-ai/DeepSeek-V3，感兴趣快来试试吧！ 邀请注册得14元不过期额度：https://cloud.siliconflow.cn/i/Ia3zOSCU。 实践 最近VS Code中的自动编程插件Cline,https://www.cnblogs.com/mingupupu/p/18696672,,2025-02-02 00:57:00+00:00,"deepseek-ai/DeepSeek-R1deepseek-ai/DeepSeek-V3
+14https://cloud.siliconflow.cn/i/Ia3zOSCU
+VS CodeClineRoo CodeClinefork
+Cline
+ IDE /
+ClineSiliconCloudOpenAI Compatible
+tsnext.jstodo-demo
+Cline… [+119 chars]"
+,Thenewslens.com,中央通訊社,台股蛇年開盤一度重挫千點，台積電、代工6強恐震盪，DeepSeek有利蘋概股表現,美中貿易戰及中國AI公司DeepSeek崛起，衝擊台股金蛇年開盤，台積電ADR春節期間跌幅逾6%，電子六哥等在墨西哥設廠之台商亦受關稅影響。法人預期科技股及AI概念股將震盪，蘋概股或成資金避風港。期交所新增小型雙鴻期貨等七檔股票期貨，提供更多避險工具。,https://www.thenewslens.com/article/248510,https://bucket-image.inkmaginecms.com/version/social/1/image/2025/02/71d54859-b877-437c-b01f-477a029c208f.jpg,2025-02-03 01:17:41+00:00,"AI6
+4AIDeepSeekAI
+ADR6%AI
+410%25%6
+737103.926.27
+AIDeepSeekAIADRAI
+BBU
+23202
+131
+AIDeepSeek322998
+DeepSeekAINVIDIA31HBMSK13
+DSDeepSeekADR122223.1931209.326%705003
+312125%10%
+31NVIDIAAIH1… [+387 chars]"
+,GSMArena.com,Peter,Deals: Samsung Galaxy S25 series deals get updated,"Pre-orders for the Galaxy S25 series started last week and are still underway – open sales officially start on February 7. We already looked at early offers, but now Amazon has tweaked its deals, so let’s have another look.
+
+The Samsung Galaxy S25 Ultra is av…",https://www.gsmarena.com/deals_samsung_galaxy_s25_series_deals_get_updated-news-66329.php,https://fdn.gsmarena.com/imgroot/news/25/01/weekly-deals-31/-952x498w6/gsmarena_us.jpg,2025-02-02 08:47:01+00:00,"Pre-orders for the Galaxy S25 series started last week and are still underway open sales officially start on February 7. We already looked at early offers, but now Amazon has tweaked its deals, so le… [+2772 chars]"
+,Geeky Gadgets,Julian Horsey,OpenAI o3-mini vs DeepSeek R1 : Performance Comparison and First Impressions,"If you are interested in learning more about the latest OpenAI o3-mini AI model release this weekend. This performance comparison and first impressions overview by All About AI well hopefully answer your initial questions. Whether you’re a developer, a resear…",https://www.geeky-gadgets.com/openai-o3-mini-vs-deepseek-r1/,https://www.geeky-gadgets.com/wp-content/uploads/2025/02/o3-mini-vs-deepseek-r1-comparison_optimized.jpg,2025-02-02 11:03:40+00:00,If you are interested in learning more about the latest OpenAI o3-mini AI model release this weekend. This performance comparison and first impressions overview by All About AI well hopefully answer … [+6154 chars]
+,Hvg.hu,hvg@hvg.hu,"Ez történt: Jó hír jött a szúrás nélküli, 24 órás vércukorszintmérésről","Összegyűjtöttük egy cikkbe a hét legérdekesebb, legolvasottabb technológiai és tudományos témáit.",https://hvg.hu/tudomany/20250202_deepseek-mi-lakhato-bolygo-ismeretlen-agyterulet-repulogep-baleset-galaxy-watch-vercukormeres,https://img.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/68258366-1a45-45b5-aa54-6052958e3f67.jpg,2025-02-02 11:03:00+00:00,"Cukorbetegek milliói sóhajthatnak fel, meglepen hamar megjelenhetnek a vércukorszintet 24 órában mér órákRengeteg érintett sóhajthat majd fel a világon, amikor végre megvalósulna az okosórába integrá… [+1738 chars]"
+,Tabnak.ir,info@tabnak.ir,کسی که دنیای فناوری را به وحشت انداخت!,خانه خانوادگی لیانگ به زیارتگاهی غیرمنتظره برای علاقه‌مندان به دیدن محل رشد این چهره معروف بدل شده است. اما درحالی‌که همسایگانش از دستاورد‌های او تمجید می‌کنند، هیچ‌کدام اطلاعات زیادی درباره زندگی کنونی این مرد مرموز که دره سیلیکون را به وحشت انداخته، ندارند.,https://www.tabnak.ir/fa/news/1286679/کسی-که-دنیای-فناوری-را-به-وحشت-انداخت,https://www.tabnak.ir/files/fa/news/1403/11/15/1951814_255.jpg,2025-02-02 20:29:09+00:00,". (DeepSeek) .
+ «» : . (DeepSeek) .
+ (Promptfoo) Andreessen Horowitz .
+ . . .
+ . . : « .»
+ . .
+ . . : « . .» « » .
+ « » . : « . .»
+ . «-» (High-Flyer) .
+- . - .
+ : « . . .»
+ « » (AGI) Open… [+90 chars]"
+,Cnblogs.com,努力的小雨,快速入门 DeepSeek-R1 大模型 - 努力的小雨,国内最新的神级人工智能模型已经正式发布，没错，它就是备受瞩目的DeepSeek-R1大模型。今天，我们将对DeepSeek进行一个简单的了解，并探索如何快速使用和部署这个强大的工具。值得一提的是，DeepSeek已经开源，您可以随意下载和使用它。 DeepSeek的官方网站地址如下：https://,https://www.cnblogs.com/guoxiaoyu/p/18697085,,2025-02-02 13:03:00+00:00,"DeepSeek-R1DeepSeekDeepSeek
+DeepSeekhttps://www.deepseek.com/
+APIhttps://api-docs.deepseek.com/zh-cn/
+API
+DeepSeek API OpenAI API OpenAI SDK DeepSeek API OpenAI API 
+OpenAI ChatGPT OpenAI OpenAI… [+900 chars]"
+,Cnblogs.com,架构师汤师爷,DeepSeek 全面指南，95% 的人都不知道的9个技巧（建议收藏） - 架构师汤师爷,大家好，我是汤师爷~ 最近，DeepSeek这款AI工具爆火国内外。 虽然许多人都开始尝试使用它，但有人吐槽说，没想象中那么牛。 其实问题不在工具，很多人的使用姿势就搞错了，用大炮打蚊子，白白浪费DeepSeek的强大功能。 接下来，我将为大家分享9个实用技巧，你会发现DeepSeek远比想象中更强,https://www.cnblogs.com/tangshiye/p/18696818,,2025-02-02 06:05:00+00:00,"~
+DeepSeekAI
+DeepSeek
+9DeepSeek
+DeepSeek
+DeepSeekV3R1
+1. V3
+V3DeepSeekV312GPT-4Claude-3.5
+V3
+V3V3
+2. R1
+R1DeepSeek
+R1660B+RL
+R1R1
+3. 
+DeepSeekAIRAGDeepSeek
+20247
+DeepSeekchatGPT
+1. … [+480 chars]"
+,Yahoo Entertainment,,Can Meta Platforms Inc (META) Benefit From DeepSeek Breakthrough?,,https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_af3b91a8-7c89-4577-98a7-08e8458770a9,,2025-02-02 19:30:28+00:00,"If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+,Yahoo Entertainment,,Analyst Says Amazon.com Inc (AMZN) Among ‘Winners’ After DeepSeek,,https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b50039b1-b650-4dad-9066-91521b1c03af,,2025-02-02 19:30:58+00:00,"If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+,Yahoo Entertainment,,TSMC Shares Slump on Return From Holiday After DeepSeek Jolt,,https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e2cc03d0-7296-438d-b4ad-6a36ec96ad3e,,2025-02-03 02:29:46+00:00,"If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+,Yahoo Entertainment,,Jim Cramer Says SoFi Technologies (SOFI) Fell Because of DeepSeek,,https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_42c41438-307f-4f5f-9b16-7859d19e450d,,2025-02-02 20:06:42+00:00,"If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+,Yahoo Entertainment,,"Analyst Downgrades Advanced Micro Devices (AMD) Amid Nvidia, DeepSeek Threats",,https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0dbfa954-de95-4a51-b2a3-d3c8af6fd137,,2025-02-02 19:31:06+00:00,"If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+,Ferra.ru,Андрей Кадуков,Тайвань запретил использование DeepSeek во всех ведомствах,"Bloomberg со ссылкой на свои источники сообщил, что Тайвань запретил использование китайской нейросети DeepSeek всем государственным учреждениям и поставщикам услуг критической инфраструктуры «из-за проблем безопасности».",https://www.ferra.ru/news/techlife/taivan-zapretil-ispolzovanie-deepseek-vo-vsekh-vedomstvakh-01-02-2025.htm,https://www.ferra.ru/imgs/2025/02/01/16/6722839/231e9e9bd4b6d4f9553c06108af429e6772faa9d.png,2025-02-02 15:45:00+00:00,"DeepSeek , . « , . , DeepSeek , », .
+, DeepSeek , . « , - , », ."
+,Ferra.ru,Максим Многословный,Уже и в NASA запретили использовать китайский ИИ DeepSeek,"NASA запретило своим сотрудникам пользоваться DeepSeek, китайской платформой искусственного интеллекта, из-за “соображений национальной безопасности и конфиденциальности”. В служебной записке, разосланной в пятницу, главный специалист NASA по искусственному и…",https://www.ferra.ru/news/techlife/uzhe-i-v-nasa-zapretili-ispolzovat-kitaiskii-ii-deepseek-02-02-2025.htm,https://www.ferra.ru/imgs/2025/02/02/12/6723154/84f8b730087c0ee5fbc5cc2e47c55da0d10397e7.webp,2025-02-02 15:35:06+00:00,"NASA - , DeepSeek. - - . , , DeepSeek .
+DeepSeek, ChatGPT OpenAI Google Gemini, , . , , Nvidia Broadcom, ."
+,Expansion.com,Roberto Casado,"La irrupción de DeepSeek pone en jaque inversiones globales en IA por 2,5 billones de dólares","Grandes compañías tecnológicas, fondos de capital riesgo, promotores de centros de datos y generadores de energía pueden verse obligados a revisar sus planes en inteligencia artificial. Leer",https://www.expansion.com/empresas/2025/02/03/679f5e3ae5fdea67708b4571.html,https://phantom-expansion.unidadeditorial.es/69b7c41bf355ce537b00681ea3f5b2de/resize/1200/f/webp/assets/multimedia/imagenes/2025/02/02/17384973517399.jpg,2025-02-02 23:22:24+00:00,"Grandes compañías tecnológicas, fondos de capital riesgo, promotores de centros de datos y generadores de energía pueden verse obligados a revisar sus planes en inteligencia artificial.El pasado lune… [+431 chars]"
+,The Star Online,The Star Online,Govt to study impact of DeepSeek AI platform on Malaysia,"SHAH ALAM: The government is studying the impact of China’s open-source artificial intelligence (AI) platform DeepSeek on Malaysia, says Digital Minister Gobind Singh Deo. Read full story",https://www.thestar.com.my/news/nation/2025/02/02/govt-to-study-impact-of-deepseek-ai-platform-on-malaysia,https://apicms.thestar.com.my/uploads/images/2025/02/02/3147327.jpg,2025-02-02 05:27:00+00:00,"SHAH ALAM: The government is studying the impact of Chinas open-source artificial intelligence (AI) platform DeepSeek on Malaysia, says Digital Minister Gobind Singh Deo.
+DeepSeek is rapidly gaining… [+1436 chars]"
+,Livedoor.jp,itsoku,平デジタル大臣 「DeepSeekの利用は控えて」,"1:お断り ★ 2025/02/01(土) 22:33:17.32 ID:kwPreQkP9
+ 中国の「ディープシーク」が開発した生成AIをめぐり、平デジタル大臣は、個人情報の取り扱いなどの懸念が払拭（ふっしょく）されないかぎり、各省庁での利用を控えるよう注意喚起を行いたいという考えを示しました。...",http://blog.livedoor.jp/itsoku/archives/62124931.html,https://livedoor.blogimg.jp/itsoku/imgs/4/f/4ff2f070-s.png,2025-02-02 00:10:15+00:00,"1: 2025/02/01() 22:33:17.32 ID:kwPreQkP9
+ AI
+AI
+https://www3.nhk.or.jp/news/html/20250201/k10014709931000.html
+2: 2025/02/01() 22:34:35.91 ID:Qe8O8+K80
+ temu 
+4: 2025/02/01() 22:35:10.92 ID:FUq… [+2322 chars]"
+,Svetandroida.cz,Adam Kurfürst,"NÚKIB varuje před náhle populárními aplikacemi, evidentně naráží na DeepSeek","Nad chatbotem DeepSeek se stahují mračna. Popularita čínské umělé inteligence raketově vystřelila, když se zjistilo, že za zlomek ceny dokáže podávat podobné výsledky jako americké modely, ale v posledních dnech se více než její schopnosti řeší otázka bezpečn…",https://www.svetandroida.cz/nukib-popularni-aplikace-varovani-deepseek-ai/,https://www.svetandroida.cz/media/2025/02/deepseek-nukib-ilustrace.webp,2025-02-02 15:00:00+00:00,"Nad chatbotem DeepSeek se stahují mrana. Popularita ínské umlé inteligence raketov vystelila, kdy se zjistilo, e za zlomek ceny dokáe podávat podobné výsledky jako americké modely, ale v posledních d… [+1804 chars]"
+,Enriquedans.com,Enrique Dans,"Colaboración, competición… y los que no lo entienden","Dario Amodei era una persona que me generaba cierto respeto intelectual… hasta hace unos pocos días, cuando leí su simplista y absurdo articulo reclamando más sanciones y controles a la exportación de chips a China.  Según la mentalidad de este hombre, lo que…",https://www.enriquedans.com/2025/02/colaboracion-competicion-y-los-que-no-lo-entienden.html,https://www.enriquedans.com/wp-content/uploads/2025/02/Collaboration-v-competition.jpg,2025-02-02 16:13:10+00:00,"Dario Amodei era una persona que me generaba cierto respeto intelectual… hasta hace unos pocos días, cuando leí su simplista y absurdo articulo reclamando más sanciones y controles a la exportación d… [+4623 chars]"
+,Geeky Gadgets,Julian Horsey,The Real Reason NVIDIA Stock Crashed : It’s Wasn’t DeepSeek R1,"It’s no secret that the tech world moves fast, but when a company as dominant as NVIDIA stumbles, it grabs everyone’s attention. If you’ve been following the headlines, you might have heard whispers that the release of a new AI model, DeepSeek R1, was to blam…",https://www.geeky-gadgets.com/nvidia-stock-crash/,https://www.geeky-gadgets.com/wp-content/uploads/2025/02/nvidia-stock-drop-us-tariffs-impact_optimized.jpg,2025-02-02 14:47:25+00:00,"Its no secret that the tech world moves fast, but when a company as dominant as NVIDIA stumbles, it grabs everyones attention. If youve been following the headlines, you might have heard whispers tha… [+5224 chars]"
+,Ascii.jp,ASCII,DeepSeek R1、無料で使えるAIとしては最強クラス (1/6),1月20日に、中国のAI企業DeepSeekがリリースした大規模言語モデル（LLM）の「DeepSeek R1」が世界中に衝撃を与えています。OpenAIの「o1」に匹敵する性能とアピールされているにも関わらず、誰にも扱えて、緩いライセンスでオープンウェイトモデルとして公開されるとはまったく予想外でした。今までのLLM開発をけん引し...,https://ascii.jp/elem/000/004/249/4249086/,https://ascii.jp/img/2025/02/02/4157175/xl/79720e03fa7b5fe8.png?20200122,2025-02-02 23:35:27+00:00,"DeepSeek R1ChatGPT
+120AIDeepSeekLLMDeepSeek R1OpenAIo1LLMAIPCDeepSeek R1
+DeepSeek R1o1o16710370128000LLM650GBo1
+DeepSeekDeepSeek R1o1
+6008ChatGPT1011501500OpenAISemianalysisHigh-Flyer CapitalAI57… [+4 chars]"
+,Dutchcowboys.nl,Laura Jenny,Nederlandse waakhond AP doet onderzoek naar DeepSeek AI,"De AP waarschuwt mensen ook om voorzichtig te zijn met wat ze allemaal met DeepSeek doen, omdat niet helemaal duidelijk is hoe het zit.",https://www.dutchcowboys.nl/online/nederlandse-waakhond-ap-doet-onderzoek-naar-deepseek-ai,https://www.dutchcowboys.nl/wp-content/uploads/2025/02/Deepseek.jpg,2025-02-02 21:24:26+00:00,"Onze Nederlandse waakhond is niet de enige die een onderzoek start naar de app. Ook Ierland, Frankrijk en Italie hebben meer onderzoek aangekondigd. In Italie is de app vooralsnog zelfs geblokkeerd. … [+1031 chars]"
+,Technews.tw,Unwire HK,OpenAI 推出新輕量級模型 o3-mini 反擊，低成本且 STEM 領域推理力優異,最近 DeepSeek 引起 AI 界熱烈討論，尤其低成本認為顛覆市場，OpenAI 的回擊就是推出輕量級模型 o3-mini，保持低成本和低延遲，且科學、數學和程式編寫等 STEM 領域展現優異的推理能力。 o3-mini 去年 12 月就推出預覽版，為 OpenAI 首個支援函式呼叫、結構化輸出...,https://technews.tw/2025/02/02/openai-o3-mini/,https://img.technews.tw/wp-content/uploads/2025/02/02102957/Day_12.jpg,2025-02-02 02:32:08+00:00,"DeepSeek AI OpenAI o3-mini STEM 
+o3-mini 12 OpenAI o3-mini o1
+o3-mini o1 56% o3-mini 39%
+ ChatGPT PlusTeam Pro Reason o3-mini 50 150 
+ Unwire HK OpenAI"
+,Forbes,"Zak Doffman, Contributor, 
+ Zak Doffman, Contributor
+ https://www.forbes.com/sites/zakdoffman/",Google’s Gmail Upgrade—Do Not Leave Your Account At Risk,Why you should change your account settings — if you can.,https://www.forbes.com/sites/zakdoffman/2025/02/02/googles-gmail-upgrade-do-not-leave-your-account-at-risk/,"https://imageio.forbes.com/specials-images/imageserve/604215fdc1f0a944b260e8d1/0x0.jpg?format=jpg&crop=1218,711,x1070,y1034,safe&height=900&width=1600&fit=bounds",2025-02-02 12:59:28+00:00,"Gmail has changedhere's what you need to do.
+NurPhoto via Getty Images
+Be warned if you dont get on top of the AI being stitched through your apps and platforms, you will have no control over what … [+4097 chars]"
+,Forbes,"John Tamny, Contributor, 
+ John Tamny, Contributor
+ https://www.forbes.com/sites/johntamny/","Nvidia Reminds Us That Stocks Gain Strength From Fundamentals, Not Fed","If the Fed could prop up stocks, stocks wouldn't be worth buying.",https://www.forbes.com/sites/johntamny/2025/02/02/nvidia-reminds-us-that-stocks-gain-strength-from-fundamentals-not-fed/,https://imageio.forbes.com/specials-images/imageserve/679d3d191b88d7fe1ea22308/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds,2025-02-02 15:00:00+00:00,"HONG KONG, CHINA - JANUARY 28: In this photo illustration, the DeepSeek logo is seen on a phone in ... [+] front of a flag of China on January 28, 2025 in Hong Kong, China. Global tech stocks have pl… [+3996 chars]"
+,Yahoo Entertainment,Reuters,"Difficult yet to predict DeepSeek's potential impact on power demand, Japan's METI says","Japan's industry ministry is aware of a view that expansion of data centres may increase demand for electricity, however, it is difficult yet to predict how ...",https://finance.yahoo.com/news/difficult-yet-predict-deepseeks-potential-023359271.html,https://media.zenfs.com/en/reuters-finance.com/415afd3eb825d0b428fcf04df3508dce,2025-02-03 02:33:59+00:00,"TOKYO (Reuters) - Japan's industry ministry is aware of a view that expansion of data centres may increase demand for electricity, however, it is difficult yet to predict how demand may change with t… [+1198 chars]"
+,Cnblogs.com,ASER_1989,本地部署DeepSeek - ASER_1989,没想到新年最热闹的地方之一会是互联网，刷爆朋友圈的除了新年祝福还有DeepSeek。揣着一颗好奇心试了试，竟有一种发现新大路的感觉。估计是围观的人太多，在线的版本有时候会出现连不上的情况，好奇心驱使之下想尝试本地部署。 方案 本地化方案非常简单：Ollama + DeepSeek-R1 + Ench,https://www.cnblogs.com/aser1989/p/18697164,,2025-02-02 15:37:00+00:00,"DeepSeek
+Ollama + DeepSeek-R1 + Enchanted LLM 
+Ollama LLMs Llama 2Code LlamaMistral dockerpullrunps...
+DeepSeek-R1
+Ollamahttps://ollama.com/ModelsDeepSeek-R1ollama 70b
+43GBenollamaollama Error: … [+457 chars]"
+,Hvg.hu,hvg@hvg.hu,Trump feladná Tajvant? Az ott gyártott chipekre kivetett 100 százalékos vám ezt jelentené,"Donald Trump amerikai elnök azzal fenyegetőzik, hogy 100 százalékos vámokat vet ki a Tajvanon gyártott chipekre. Ez a DeepSeek után újabb rossz hír az Nvidia számára, amely a tajvani TSMC-re támaszkodik a chipellátásban. De talán ennél is rosszabb hír Tajvan …",https://hvg.hu/gazdasag/20250202_Trump-fenyegetes-TSMC-Tajvan-chip-haboru-vam-USA-ebx,https://img.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/3063e17d-5892-4ea4-944a-553b691c44d1.jpg,2025-02-02 14:00:00+00:00,"Donald Trump amerikai elnök ígérete, hogy 100 százalékos vámokat vet ki a Tajvanon gyártott félvezetk behozatalára, egyrészt újabb csapást mérhet az Nvidiára, amelynek részvényei 17 százalékkal zuhan… [+6818 chars]"
+,Isna.ir,خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency,انقلاب در هوش مصنوعی توسط مردی که جدی گرفته نمی‌شد,شرکت چینی دیپ‌سیک (DeepSeek) با پیشرفت چشمگیر خود در حوزه هوش مصنوعی، جهان فناوری را شگفت‌زده کرده است. این موفقیت، میلیاردها دلار از ارزش شرکت‌های بزرگ فناوری آمریکا کاسته و نگرانی‌هایی درباره نفوذ چین در بازار جهانی AI ایجاد کرده است. در حالی که برخی آن را …,https://www.isna.ir/news/1403111409681/انقلاب-در-هوش-مصنوعی-توسط-مردی-که-جدی-گرفته-نمی-شد,https://cdn.isna.ir/d/2025/02/02/4/63340394.jpg?ts=1738475718983,2025-02-02 05:57:18+00:00,"(DeepSeek)  . AI . .
+: DeepSeek     . .
+ (Liang Wenfeng) . .
+ . . .
+ DeepSeek . « » .
+ . .    (High-Flyer) .
+ DeepSeek .
+ : « . .» : « . .»
+ .
+ . .
+ . . .
+ DeepSeek .
+ DeepSeek . .
+DeepS… [+120 chars]"
+,Xataka.com,Miguel Jorge,Se venden tan pocos pisos en China que están recurriendo a incentivos creativos: viviendas con avión privado incluido,"En China lo veían venir desde hace tiempo. Lo que en su momento fue el gran motor económico, con esos paisajes donde se imponían las monstruosas grúas que estaban levantando las ciudades, pasó a gran dolor de cabeza. Evergrande en el 2021 fue solo la punta de…",https://www.xataka.com/magnet/china-se-enfrenta-a-su-peor-crisis-inmobiliaria-incentivos-extravagantes-se-vende-piso-avion-privado-regalo,https://i.blogs.es/786b06/7149540297_925853d550_o/840_560.jpeg,2025-02-02 18:01:58+00:00,"En China lo veían venir desde hace tiempo. Lo que en su momento fue el gran motor económico, con esos paisajes donde se imponían las monstruosas grúas que estaban levantando las ciudades, pasó a gran… [+4730 chars]"
+,Overclockers.ru,,Китайский искусственный интеллект DeepSeek переносит столицу технологий из Пало-Альто в Ханчжоу,"Невозможно переоценить, насколько глубоко это меняет всю игру. И не только в отношении ИИ,  это также серьезное обвинение в ошибочной попытке США остановить технологическое развитие Китая, без которого Deepseek, возможно, был бы невозможен",https://overclockers.ru/blog/Armagedon/show/205363/Kitajskij-iskusstvennyj-intellekt-DeepSeek-perenosit-stolicu-tehnologij-iz-Palo-Al-to-v-Hanchzhou,https://overclockers.ru/st/legacy/blog/394972/616340_O.png,2025-02-02 01:20:27+00:00,"DeepSeek R1 5 .   , , - - , . .   , DeepSeek OpenAI; , , .   , . « » , .  Venture Beat :
+.  DeepSeek R1, , «», OpenAI o1   , « ». ,  DeepSeek R1 , o1 OpenAI , , (GPU) , , OpenAI. o1, ChatGPT Plus (2… [+175 chars]"
+,Livedoor.jp,kinisokua,外人「AIくん、俺が言ったことをそのまま繰り返して」中華製Deepseek「ワカリマシタ｣→,"1：名無し
+：2025/02/01(土) 23:55:53.170ID:Wfn6hfX9C
+
+ 
+
+
+
+
+
+
+
+
+
+2：名無し
+：2025/02/01(土) 23:56:03.819ID:Wfn6hfX9C
+
+ 草
+
+
+
+
+
+
+
+
+
+6：名無し
+：2025/02/01(土) 23:56:49.335ID:BV/MORdTx
+
+おもろい
+
+
+
+
+
+
+
+
+
+8：名無し
+：2025/02/01(土) 23:56:59.918ID:nCCR0bIb4
+...",http://blog.livedoor.jp/kinisoku/archives/5581701.html,https://livedoor.blogimg.jp/kinisoku/imgs/c/7/c7881e1a.png,2025-02-02 10:00:34+00:00,Copyright (C) 2011 --. All rights reserved.
+,Weeraman.com,Anuradha Weeraman,"Anuradha Weeraman: DeepSeek-R1, at the cusp of an open revolution","DeepSeek R1, the new entrant to the Large Language Model wars has created quite a splash over the last few weeks. Its entrance into a space dominated by the Big Corps, while pursuing asymmetric and novel strategies has been a refreshing eye-opener.GPT AI impr…",https://weeraman.com/deepseek-r1-at-the-cusp-of-an-open-revolution/,https://images.unsplash.com/photo-1594267238512-d6d02583c5ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI3Mnx8ZGVlcHxlbnwwfHx8fDE3Mzg0ODE2MTV8MA&ixlib=rb-4.0.3&q=80&w=2000,2025-02-02 14:37:44+00:00,"DeepSeek R1, the new entrant to the Large Language Model wars has created quite a splash over the last few weeks. Its entrance into a space dominated by the Big Corps, while pursuing asymmetric and n… [+7151 chars]"
+abc-news-au,ABC News (AU),Alan Kohler,How DeepSeek changed the future of AI — and what that means for our jobs,What no-one talks about as the AI revolution unfolds in stock market hype and scientific gung-ho is what the developers all really trying to do. They're trying to replicate the human brain.,https://www.abc.net.au/news/2025-02-03/deepseek-accelerates-ai-robot-jobs-takeover/104886722,https://live-production.wcms.abc-cdn.net.au/c1b6a04e1ec0b7910f2baa4bf67d113f?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=62&width=862&height=485&imformat=generic,2025-02-02 19:03:14+00:00,"Watching the global frenzy about the new Chinese artificial intelligence model, DeepSeek, last week, I remembered the Statement on AI Risk published by the Center on AI Safety and signed by 350 exper… [+6989 chars]"
+,Overclockers.ru,Алексей Сычёв,"Акции TSMC упали на 6,6% после возвращения инвесторов с каникул",Тайвань всю прошлую неделю отдыхал.,https://overclockers.ru/hardnews/show/139320/akcii-tsmc-upali-na-6-6-posle-vozvrascheniya-investorov-s-kanikul,https://overclockers.ru/st/images/preview/L6mVhGJTS8BC3fmq.jpg,2025-02-03 01:38:00+00:00,", Bloomberg, DeepSeek , . TSMC 6,6%, Foxconn 9,2%, Taiex 4,4%. DeepSeek, .
+, DeepSeek $6 NVIDIA H800. SemiAnalysis, DeepSeek 50 000 NVIDIA, $1,6 .
+ , , , . Bloomberg Intelligence , , , «»."
+,Overclockers.ru,Madarator,"Власти Тайваня запретили всем госучреждениям использовать нейросеть DeepSeek, сделанную в КНР","Несмотря на все утверждения, что нейросети не являются продолжением политики, простой вопрос о принадлежности группы островов Сенкаку, заданной DeepSeek, всё расставляет на свои места.",https://overclockers.ru/blog/ProKino/show/206281/Vlasti-Tajvanya-zapretili-vsem-gosuchrezhdeniyam-ispol-zovat-nejroset-DeepSeek-sdelannuju-v-KNR,https://overclockers.ru/st/legacy/blog/415476/618209_O.jpeg,2025-02-02 04:20:27+00:00,", , , . DeepSeek. «» Bloomberg. 
+    , . , DeepSeek .   
+   , DeepSeek , , , ."
+,Yahoo Entertainment,,Alibaba named most admired Chinese internet firm by Fortune amid race with DeepSeek,,https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7ad4946a-68cc-466f-88f2-3747242bad96,,2025-02-02 09:30:00+00:00,"If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
