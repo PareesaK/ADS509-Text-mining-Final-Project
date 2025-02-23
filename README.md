@@ -36,9 +36,9 @@ We applied four classification models to categorize news articles and analyze co
 
   
 Additionally, we used topic modeling techniques such as:
-* Latent Dirichlet Allocation (LDA)
-* Non-Negative Matrix Factorization (NMF)
-* Latent Semantic Analysis (LSA)
+#* Latent Dirichlet Allocation (LDA)
+#* Non-Negative Matrix Factorization (NMF)
+#* Latent Semantic Analysis (LSA)
 These methods helped uncover dominant topics in media coverage.
 ### Training & Evaluation
 * Data Split: Training and test datasets were created to evaluate model performance.
