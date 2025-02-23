@@ -32,14 +32,13 @@ We applied four classification models to categorize news articles and analyze co
 * Naive Bayes – A probabilistic model for text classification.
 * Logistic Regression – A linear model for binary and multi-class classification.
 * Support Vector Machine (SVM) – A model that finds optimal decision boundaries.
-* XGBoost – A gradient boosting algorithm known for high performance in text classification.
+* XGBoost – A gradient-boosting algorithm known for high performance in text classification.
 
-  
 Additionally, we used topic modeling techniques such as:
-#* Latent Dirichlet Allocation (LDA)
-#* Non-Negative Matrix Factorization (NMF)
-#* Latent Semantic Analysis (LSA)
-These methods helped uncover dominant topics in media coverage.
+* Latent Dirichlet Allocation (LDA)
+* Non-Negative Matrix Factorization (NMF)
+* Latent Semantic Analysis (LSA)
+
 ### Training & Evaluation
 * Data Split: Training and test datasets were created to evaluate model performance.
 * Feature Extraction: TF-IDF was used to transform text data into numerical features.
