@@ -33,7 +33,7 @@ We applied four classification models to categorize news articles and analyze co
 * Logistic Regression – A linear model for binary and multi-class classification.
 * Support Vector Machine (SVM) – A model that finds optimal decision boundaries.
 * XGBoost – A gradient boosting algorithm known for high performance in text classification.
-*  Additionally, we used topic modeling techniques such as:
+Additionally, we used topic modeling techniques such as:
 * Latent Dirichlet Allocation (LDA)
 * Non-Negative Matrix Factorization (NMF)
 * Latent Semantic Analysis (LSA)
