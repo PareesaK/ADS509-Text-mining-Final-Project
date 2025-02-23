@@ -20,10 +20,33 @@ Number of Variables: 7
 * url
 * urlToImage
 * publishedAt
-### Size of Dataset:
+#### Size of Dataset:
 The dataset is continuously expanding as new articles are collected.
-Preprocessing
+### Preprocessing
 * Collected and cleaned text data from multiple news sources.
 * Removed stopwords, punctuation, and special characters.
 * Applied tokenization and lemmatization for better text representation.
 * Transformed text data using TF-IDF vectorization.
+### Models Used
+We applied four classification models to categorize news articles and analyze coverage trends:
+* Naive Bayes – A probabilistic model for text classification.
+* Logistic Regression – A linear model for binary and multi-class classification.
+* Support Vector Machine (SVM) – A model that finds optimal decision boundaries.
+* XGBoost – A gradient boosting algorithm known for high performance in text classification.
+* Additionally, we used topic modeling techniques such as:
+** Latent Dirichlet Allocation (LDA)
+** Non-Negative Matrix Factorization (NMF)
+** Latent Semantic Analysis (LSA)
+These methods helped uncover dominant topics in media coverage.
+### Training & Evaluation
+* Data Split: Training and test datasets were created to evaluate model performance.
+* Feature Extraction: TF-IDF was used to transform text data into numerical features.
+* Performance Metrics: Accuracy, Precision, Recall, and F1-score were used to assess classification models.
+### Results & Comparison
+* A detailed classification report and confusion matrix were generated for each model.
+* A visualization comparing model performance is provided to highlight accuracy and effectiveness.
+### Conclusion & Recommendations
+* The best-performing classification model was XGBoost, achieving the highest accuracy and balanced performance across categories.
+* Naive Bayes had lower precision but worked well for some categories with high recall.
+* SVM and Logistic Regression showed competitive results but struggled with certain class imbalances.
+* Future work includes incorporating sentiment analysis and expanding the dataset for more robust insights.
