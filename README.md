@@ -20,6 +20,20 @@ Number of Variables: 7
 * url
 * urlToImage
 * publishedAt
+
+### How to collect more data from News API
+1. Clone repo
+2. Edit `api.py` and save your API key
+3. Install dependencies
+>```
+>pip install -r requirements.txt
+>```
+3. Run python script
+> ```
+> python fetch_data.py
+> ```
+
+
 #### Size of Dataset:
 The dataset is continuously expanding as new articles are collected.
 ### Preprocessing
