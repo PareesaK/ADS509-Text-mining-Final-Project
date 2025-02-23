@@ -1,2 +1,14 @@
 newsapi-python
 pandas
+numpy
+wrapt==1.15.0
+spacy
+gensim
+nltk
+scikit-learn
+pyldavis==3.3.1
+xgboost
+matplotlib
+seaborn
+wordcloud
+langdetect
