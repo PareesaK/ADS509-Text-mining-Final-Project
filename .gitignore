@@ -1,6 +1,5 @@
 temp/*
-nba_dash2/*
-nba_dash_v2/__pycache__/*
+__pycache__/*
 .DS_Store
 
 .ipynb_checkpoints/
