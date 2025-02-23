@@ -1,0 +1,19 @@
+temp/*
+nba_dash2/*
+nba_dash_v2/__pycache__/*
+.DS_Store
+
+.ipynb_checkpoints/
+text_mining.log
+
+
+.streamlit/secrets.toml
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
