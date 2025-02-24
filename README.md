@@ -1,6 +1,6 @@
 # ADS509-Text-mining-Final-Project
 
-## text Mining DeepSeek’s Media Narrative: Trends & Insights
+## Text Mining DeepSeek’s Media Narrative: Trends & Insights
 
 ### Overview
 This project utilizes text mining techniques to analyze media coverage of DeepSeek, focusing on how it is portrayed across various news outlets and how its narrative has evolved over time. We aim to apply natural language processing (NLP) methods to identify key themes and trends in coverage related to DeepSeek’s development and impact. The analysis will help uncover public news and monitor AI trends, providing insights into DeepSeek's representation in the media.
